@@ -20,8 +20,10 @@ else {
 }
 }));
 
+//Reads CSV File
 const csvReader = fs.createReadStream("input_countries.csv")
 
+//Extracts needed rows in CSV and adds it into specific text files
 csvReader.pipe(csv())
     .on('data', (row) => {
         const countryData = row.country + "," + row.year + "," + row.population + "\n"
