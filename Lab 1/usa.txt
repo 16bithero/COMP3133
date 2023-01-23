@@ -1,0 +1,12 @@
+United States,1952,157553000
+United States,1957,171984000
+United States,1962,186538000
+United States,1967,198712000
+United States,1972,209896000
+United States,1977,220239000
+United States,1982,232187835
+United States,1987,242803533
+United States,1992,256894189
+United States,1997,272911760
+United States,2002,287675526
+United States,2007,301139947
